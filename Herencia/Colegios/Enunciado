@@ -1,0 +1,25 @@
+Realizar un programa que sirva para representar centros educativos de diferentes
+tipos, en el que deberás poner en práctica tus conocimientos de herencia. Los
+tipos que se puede tener son: públicos y concertados. Para todos ellos se quiere
+tener su nombre y dirección (un solo campo de tipo String), y un código
+identificativo (int, que será protected).
+Para los públicos se tendrá la asignación anual pública recibida, (campo privado).
+Para los concertados la asignación mensual pública recibida(campo privado), así
+como la cuota mensual que pagan los alumnos(campo privado).
+Para las variables que creas que sea necesario deberás tener implementado un
+método para poder modificarlas (insertar y modificar). Además existirá el método
+dameCaracterísticas en todas las clases que crees que visualizará los atributos de
+los objetos creados de cada clase.
+Se deberá tener una variable para conocer el número de centros creados tanto
+para centros concertados y públicos,(nota aclarativa: se debe elegir para ello el
+tipo de variable más apropiada a nivel de clase).
+Se pide :
+A. Crea las clases que consideres oportunas para implementar el programa.
+B. Crear dos centros, uno de cada tipo. Debes pedir la información por teclado.
+C. Modificar la asignación publica en los centros que la tengan. (públicos y
+concertados )
+D. Imprimir a continuación los datos de cada centro educativo.
+E. Por último mostrarás por pantalla la siguiente información:
+Total de centros creados:
+nº de centros concertado:
+n ºde centros públicos:
