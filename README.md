@@ -4,6 +4,7 @@
 
 ## 1º Ejercercicio subido
  El priemer ejercicio que vamos a tratar es:
- -Herencia Colegios
+
+-Herencia Colegios
 
 
