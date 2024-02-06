@@ -1,10 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=DAW)
 # Información
 [En este repositorio se subiran los ejercicios que tengo resueltos y comentados para que todos podais ver o entender mejor el codigo de los ejercicios en clase.]
-
+** **
 ## 1º Ejercercicio subido
  El priemer ejercicio que vamos a tratar es:
+ 
+Herencia [Colegios](https://github.com/Enraxk/DAW/tree/master/Herencia/Colegios).
 
--Herencia Colegios
+Este es el enunciado: [Enunciado](https://github.com/Enraxk/DAW/blob/master/Herencia/Colegios/Enunciado) 
+
+** **
+
 
 
