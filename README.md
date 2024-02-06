@@ -1,2 +1,8 @@
-En este repositorio voy a subir los ejercicios que esten terminados y comentados para que todo el mundo pueda consultarlo 
-<img scr="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Segundo%20Trimestre%20Daw" />
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Segundo%20Trimestre%20Daw)
+# Información
+[En este repositorio se subiran los ejercicios que tengo resueltos y comentados para que todos podais ver o entender mejor el codigo de los ejercicios en clase.]
+
+## 1º Ejercercicio subido
+
+
+
