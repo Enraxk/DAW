@@ -12,7 +12,7 @@ Herencia [Colegios](https://github.com/Enraxk/DAW/tree/master/Herencia/Colegios)
 
 Este es el enunciado: [Enunciado](https://github.com/Enraxk/DAW/blob/master/Herencia/Colegios/Enunciado) 
 
-** **
+
 
 
 
