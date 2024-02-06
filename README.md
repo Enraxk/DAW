@@ -2,6 +2,7 @@
 # Información
 En este repositorio se subiran los ejercicios que tengo resueltos y comentados para que todos podais ver o entender mejor el codigo de los ejercicios en clase.
 ** **
+# Preguntas y respuestas
 ## Ante cualquier duda que tengais abrir una Issue o hacer [Clic aqui](https://github.com/Enraxk/DAW/issues/new)
 ** **
 ## 1º Ejercercicio subido
